@@ -15,6 +15,7 @@
     <p>Lorem ipsum dolor sit amet consectetur <strong>adipisicing elit.</strong>
          At, sed quis culpa quae <strong><i>accusantium</i> </strong>  consequuntur facere, iure fugit rem debitis
           dolore ipsum minus <del>odit</del> <ins>obit!</ins>  ! Aperiam nesciunt fugiat nisi autem <i>eligendi!</i> </p>
+            
 
         <p>  a <sup>2</sup>+2ab+b<sup>2</sup></p> 
         <p>  H<sub>2</sub>O </p>
@@ -36,6 +37,13 @@
        <li>MYSQL</li>
        <li>PHP</li>
    </ol> 
+       
+   <ul> 
+    <li> <a href="index.html">Home</a></li>
+    <li> <a href="about.hthl">About</a></li>
+    <li> <a href="contact.html">Contact</a> </li>
+    <li> <a href="portfolio.html">portfolio</a></li>
+   </ul>
 
    <dl>
        <dt>JavaScript</dt>
@@ -45,4 +53,4 @@
 
 
 </body>
-</html> 
+</html>
